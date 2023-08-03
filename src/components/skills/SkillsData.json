@@ -1,0 +1,134 @@
+[
+  {
+    "skillID": "1",
+    "skillName": "HTML",
+    "iconType": "brands",
+    "iconName": "html5",
+    "iconSize": "sm",
+    "color": "#ff5722",
+    "skillNow": "75",
+    "width": "75",
+    "progressClass": "html"
+  },
+  {
+    "skillID": "2",
+    "skillName": "CSS",
+    "iconType": "brands",
+    "iconName": "css3",
+    "iconSize": "xs",
+    "color": "#2962ff",
+    "skillNow": "75",
+    "width": "75",
+    "progressClass": "css"
+  },
+  {
+    "skillID": "3",
+    "skillName": "JavaScript",
+    "iconType": "brands",
+    "iconName": "square-js",
+    "iconSize": "sm",
+    "color": "#ebbf2f",
+    "skillNow": "75",
+    "width": "75",
+    "progressClass": "js"
+  },
+  {
+    "skillID": "4",
+    "skillName": "Bootstrap",
+    "iconType": "brands",
+    "iconName": "bootstrap",
+    "iconSize": "sm",
+    "color": "#5e35b1",
+    "skillNow": "75",
+    "width": "75",
+    "progressClass": "bootstrap"
+  },
+  {
+    "skillID": "5",
+    "skillName": "React-js",
+    "iconType": "brands",
+    "iconName": "react",
+    "iconSize": "sm",
+    "color": "#4fc3f7",
+    "skillNow": "55",
+    "width": "55",
+    "progressClass": "react"
+  },
+  {
+    "skillID": "6",
+    "skillName": "Node-js",
+    "iconType": "brands",
+    "iconName": "node-js",
+    "iconSize": "sm",
+    "color": "#64dd17",
+    "skillNow": "50",
+    "width": "50",
+    "progressClass": "node"
+  },
+  {
+    "skillID": "7",
+    "skillName": "Express-js",
+    "iconType": "brands",
+    "iconName": "node",
+    "iconSize": "sm",
+    "color": "#61a835",
+    "skillNow": "55",
+    "width": "55",
+    "progressClass": "express"
+  },
+  {
+    "skillID": "8",
+    "skillName": "MongoDB",
+    "iconType": "solid",
+    "iconName": "database",
+    "iconSize": "sm",
+    "color": "#00c853",
+    "skillNow": "50",
+    "width": "50",
+    "progressClass": "mongo"
+  },
+  {
+    "skillID": "9",
+    "skillName": "MySQL",
+    "iconType": "solid",
+    "iconName": "database",
+    "iconSize": "sm",
+    "color": "#0097a7",
+    "skillNow": "45",
+    "width": "45",
+    "progressClass": "sql"
+  },
+  {
+    "skillID": "10",
+    "skillName": "Reactstrap & React Bootstrap",
+    "iconType": "brands",
+    "iconName": "bootstrap",
+    "iconSize": "sm",
+    "color": "#7c4dff",
+    "skillNow": "60",
+    "width": "60",
+    "progressClass": "rb"
+  },
+  {
+    "skillID": "11",
+    "skillName": "MDBootstrap",
+    "iconType": "brands",
+    "iconName": "mdb",
+    "iconSize": "sm",
+    "color": "#1976d2",
+    "skillNow": "65",
+    "width": "65",
+    "progressClass": "mdb"
+  },
+  {
+    "skillID": "12",
+    "skillName": "Material UI",
+    "iconType": "brands",
+    "iconName": "uikit",
+    "iconSize": "sm",
+    "color": "#0d47a1",
+    "skillNow": "35",
+    "width": "35",
+    "progressClass": "mui"
+  }
+]

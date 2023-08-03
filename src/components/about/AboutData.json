@@ -1,0 +1,90 @@
+[
+  {
+    "itemID": 1,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-ac2df051-579d-435f-bcfc-676d2f646f88.jpg?v=1672387784000",
+    "itemAlt": "javascript_certificate"
+  },
+  {
+    "itemID": 2,
+    "itemURL": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JEMH3KRSBDPP/CERTIFICATE_LANDING_PAGE~JEMH3KRSBDPP.jpeg",
+    "itemAlt": "reactjs_certificate"
+  },
+  {
+    "itemID": 3,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-b6f70d10-abab-494b-a52e-043353496b10.jpg?v=1672247200000",
+    "itemAlt": "html_css_certificate"
+  },
+  {
+    "itemID": 4,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-4be6d528-cfdd-4e59-a903-1408d399131f.jpg?v=1675073421000",
+    "itemAlt": "nodejs_certificate"
+  },
+  {
+    "itemID": 5,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-95cc4eb2-a588-4285-9b34-93226cdc6079.jpg?v=1679206957000",
+    "itemAlt": "advance_css_certificate"
+  },
+  {
+    "accordionID": 1,
+    "accordionTitle": "Bachelor of computer Application - BCA",
+    "accordionIcon": "user-graduate",
+    "listItems": [
+      {
+        "organizationBadge": "University",
+        "organization": "Maulana Abul Kalam Azad University of Technology, West Bengal (MAKAUT)"
+      },
+      {
+        "instutionBadge": "College",
+        "instution": "Kotibarsha Institute of Technology And Management"
+      },
+      { "majorBadge": "Major", "major": "Computer Application" },
+      { "durationBadge": "Duration", "duration": "June 2020, June 2023" }
+    ]
+  },
+  {
+    "accordionID": 2,
+    "accordionTitle": "Higher Secondary-(class-XII)",
+    "accordionIcon": "book",
+    "listItems": [
+      {
+        "organizationBadge": "Board",
+        "organization": "West Bengal Council of Higher Secondary Education"
+      },
+      {
+        "instutionBadge": "School",
+        "instution": "Gangarampur High School (H.S.)"
+      },
+      {
+        "majorBadge": "Major",
+        "major": "Arts & Computer Application"
+      },
+      {
+        "durationBadge": "Duration",
+        "duration": "Apr 2011, Jul 2013"
+      }
+    ]
+  },
+  {
+    "accordionID": 3,
+    "accordionTitle": "Secondary-(class-X)",
+    "accordionIcon": "book",
+    "listItems": [
+      {
+        "organizationBadge": "Board",
+        "organization": "West Bengal Board Of Secondary Education"
+      },
+      {
+        "instutionBadge": "School",
+        "instution": "Gangarampur High School (H.S.)"
+      },
+      {
+        "majorBadge": "Major",
+        "major": "Arts & Computer Application"
+      },
+      {
+        "durationBadge": "Duration",
+        "duration": "Apr 2009, Mar 2011"
+      }
+    ]
+  }
+]
