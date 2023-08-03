@@ -22,7 +22,7 @@ const Footer = () => {
         {/* <!-- Left --> */}
 
         {/* <!-- Right --> */}
-        <MDBContainer className='gx-0 m-0 p-0 hstack justify-content-lg-end justify-content-center gap-2'>
+        <MDBContainer className='gx-0 m-0 p-0 hstack justify-content-lg-end justify-content-center gap-lg-2 gap-md-2 gap-sm-1 gap-1'>
           {FooterData?.map((footerBtn, i) => {
             const {
               footerBtnClass,

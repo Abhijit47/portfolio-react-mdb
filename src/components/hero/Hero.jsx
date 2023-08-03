@@ -12,14 +12,25 @@ import {
   MDBTypography,
 } from 'mdb-react-ui-kit';
 
+const heroBgImage = {
+  backgroundImage:
+    'url("https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=800")',
+  backgroundRepeat: 'no-repeat',
+  backgroundPosition: 'center',
+  backgroundSize: 'cover',
+  height: '100vh',
+  transition: 'all 1s ease-in-out',
+};
+
 const Hero = () => {
   return (
     <section id='hero' className=''>
       <MDBContainer
         fluid
-        className='bg bg-image d-flex align-items-center gx-0'
+        className='bg-image d-flex align-items-center gx-0'
         loading='lazy'
-        fetchpriority='high'>
+        fetchpriority='high'
+        style={heroBgImage}>
         <MDBContainer fluid className='align-items-center p-4 gx-0'>
           <MDBRow className='gx-0 align-items-center'>
             {/* <!-- Left side --> */}
