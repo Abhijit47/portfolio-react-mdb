@@ -432,5 +432,67 @@ export const ProjectData = [
     "liveLink": "https://react-firebase-auth-zeta.vercel.app",
     "imageID": "33",
     "imageURL": require(`../../assets/project_images/project33.PNG`),
+  },
+  {
+    "projectID": "34",
+    "projectName": "Weather Application",
+    "projectDesc": "Weather details from 3rd party API",
+    "techUsed": [
+      "React JS",
+      "MDBootStrap",
+      "3rd Party API"
+    ],
+    "repoLink": "https://github.com/Abhijit47/React-Weather-App.git",
+    "liveLink": "https://react-weather-app-three-theta.vercel.app/",
+    "imageID": "34",
+    "imageURL": require(`../../assets/project_images/project34.PNG`),
+  },
+  {
+    "projectID": "35",
+    "projectName": "File Sharing APP",
+    "projectDesc": "Simple File sharing Application.",
+    "techUsed": [
+      "React JS",
+      "MDBootstrap",
+      "Node JS",
+      "Multer",
+      "Mongo DB"
+    ],
+    "repoLink": "https://github.com/Abhijit47/File-sharing-app.git",
+    "liveLink": "https://file-sharing-app-pied.vercel.app",
+    "imageID": "35",
+    "imageURL": require(`../../assets/project_images/project35.PNG`),
+  },
+  {
+    "projectID": "36",
+    "projectName": "Resume Builder App",
+    "projectDesc": "Create Resume and generate PDF.",
+    "techUsed": [
+      "React JS",
+      "MDBootstrap",
+      "Node JS",
+      "jsPDF",
+      "html2pdf",
+      "Mongo DB"
+    ],
+    "repoLink": "https://github.com/Abhijit47/Resume-builder-app.git",
+    "liveLink": "https://resume-builder-app-nine.vercel.app",
+    "imageID": "36",
+    "imageURL": require(`../../assets/project_images/project36.PNG`),
+  },
+  {
+    "projectID": "37",
+    "projectName": "Blogging System App",
+    "projectDesc": "Simple Blogging System(User Auth)",
+    "techUsed": [
+      "React JS",
+      "MDBootstrap",
+      "Node JS",
+      "Mongo DB"
+    ],
+    "repoLink": "https://github.com/Abhijit47/Reactive-Blog-frontend.git",
+    "liveLink": "https://reactive-blog-psi.vercel.app",
+    "imageID": "37",
+    "imageURL": require(`../../assets/project_images/project37.PNG`),
   }
 ];
